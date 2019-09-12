@@ -1,10 +1,8 @@
 {
-	"validarmatricula": 
-	{
-		{"resposta":"Matrícula validada"}
+	"validarmatricula":{
+		"resposta": "Matrícula validada"
 	},
-	"capturarmaterias":
-	[
+	"capturarmaterias":[
 		{
 		  "id": 1,
 		  "nome": "Matéria 1",
@@ -69,6 +67,4 @@
 		  ]
 		}
 	]
-
-
 }
