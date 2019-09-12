@@ -1,0 +1,74 @@
+{
+	"validarmatricula": 
+	{
+		{"resposta":"Matrícula validada"}
+	},
+	"capturarmaterias":
+	[
+		{
+		  "id": 1,
+		  "nome": "Matéria 1",
+		  "descricao": "Descrição matéria 1",
+		  "nomeProfessor": "Professor matéria 1",
+		  "administrador": false,
+		  "dataInicio": "2019-07-01T00:00:00.000Z",
+		  "dataFim": "2019-12-31T00:00:00.000Z",
+		  "horarios": [
+			{
+			  "diaDasemana": 1,
+			  "horarioInicio": "19:15",
+			  "horarioFinal": "20:15"
+			},
+			{
+			  "diaDasemana": 1,
+			  "horarioInicio": "20:30",
+			  "horarioFinal": "22:00"
+			}
+		  ]
+		},
+		{
+		  "id": 2,
+		  "nome": "Matéria 2",
+		  "descricao": "Descrição matéria 2",
+		  "nomeProfessor": "Professor matéria 2",
+		  "administrador": false,
+		  "dataInicio": "2019-07-01T00:00:00.000Z",
+		  "dataFim": "2019-12-31T00:00:00.000Z",
+		  "horarios": [
+			{
+			  "diaDasemana": 2,
+			  "horarioInicio": "19:15",
+			  "horarioFinal": "20:15"
+			},
+			{
+			  "diaDasemana": 2,
+			  "horarioInicio": "20:30",
+			  "horarioFinal": "22:00"
+			}
+		  ]
+		},
+		{
+		  "id": 3,
+		  "nome": "Matéria 3",
+		  "descricao": "Descrição matéria 3",
+		  "nomeProfessor": "Professor matéria 3",
+		  "administrador": false,
+		  "dataInicio": "2019-07-01T00:00:00.000Z",
+		  "dataFim": "2019-12-31T00:00:00.000Z",
+		  "horarios": [
+			{
+			  "diaDasemana": 4,
+			  "horarioInicio": "19:15",
+			  "horarioFinal": "20:15"
+			},
+			{
+			  "diaDasemana": 4,
+			  "horarioInicio": "20:30",
+			  "horarioFinal": "22:00"
+			}
+		  ]
+		}
+	]
+
+
+}
