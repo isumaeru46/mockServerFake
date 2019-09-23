@@ -14,13 +14,13 @@
 		  "horarios": [
 			{
 			  "diaDasemana": 1,
-			  "horarioInicio": "19:15",
-			  "horarioFinal": "20:15"
+			  "horarioInicio": "19:15:00",
+			  "horarioFinal": "20:15:00"
 			},
 			{
 			  "diaDasemana": 1,
-			  "horarioInicio": "20:30",
-			  "horarioFinal": "22:00"
+			  "horarioInicio": "20:30:00",
+			  "horarioFinal": "22:00:00"
 			}
 		  ]
 		},
@@ -35,13 +35,13 @@
 		  "horarios": [
 			{
 			  "diaDasemana": 2,
-			  "horarioInicio": "19:15",
-			  "horarioFinal": "20:15"
+			  "horarioInicio": "19:15:00",
+			  "horarioFinal": "20:15:00"
 			},
 			{
 			  "diaDasemana": 2,
-			  "horarioInicio": "20:30",
-			  "horarioFinal": "22:00"
+			  "horarioInicio": "20:30:00",
+			  "horarioFinal": "22:00:00"
 			}
 		  ]
 		},
@@ -56,13 +56,13 @@
 		  "horarios": [
 			{
 			  "diaDasemana": 4,
-			  "horarioInicio": "19:15",
-			  "horarioFinal": "20:15"
+			  "horarioInicio": "19:15:00",
+			  "horarioFinal": "20:15:00"
 			},
 			{
 			  "diaDasemana": 4,
-			  "horarioInicio": "20:30",
-			  "horarioFinal": "22:00"
+			  "horarioInicio": "20:30:00",
+			  "horarioFinal": "22:00:00"
 			}
 		  ]
 		}
