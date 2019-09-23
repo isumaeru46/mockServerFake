@@ -13,14 +13,14 @@
 		  "dataFim": "31/12/2019",
 		  "horarios": [
 			{
-			  "diaDasemana": 1,
-			  "horarioInicio": "19:15:00",
-			  "horarioFinal": "20:15:00"
+			  "diaDaSemana": 1,
+			  "horaInicio": "19:15:00",
+			  "horaFim": "20:15:00"
 			},
 			{
-			  "diaDasemana": 1,
-			  "horarioInicio": "20:30:00",
-			  "horarioFinal": "22:00:00"
+			  "diaDaSemana": 1,
+			  "horaInicio": "20:30:00",
+			  "horaFim": "22:00:00"
 			}
 		  ]
 		},
@@ -34,14 +34,14 @@
 		  "dataFim": "31/12/2019",
 		  "horarios": [
 			{
-			  "diaDasemana": 2,
-			  "horarioInicio": "19:15:00",
-			  "horarioFinal": "20:15:00"
+			  "diaDaSemana": 2,
+			  "horaInicio": "19:15:00",
+			  "horaFim": "20:15:00"
 			},
 			{
-			  "diaDasemana": 2,
-			  "horarioInicio": "20:30:00",
-			  "horarioFinal": "22:00:00"
+			  "diaDaSemana": 2,
+			  "horaInicio": "20:30:00",
+			  "horaFim": "22:00:00"
 			}
 		  ]
 		},
@@ -55,14 +55,14 @@
 		  "dataFim": "31/12/2019",
 		  "horarios": [
 			{
-			  "diaDasemana": 4,
-			  "horarioInicio": "19:15:00",
-			  "horarioFinal": "20:15:00"
+			  "diaDaSemana": 4,
+			  "horaInicio": "19:15:00",
+			  "horaFim": "20:15:00"
 			},
 			{
-			  "diaDasemana": 4,
-			  "horarioInicio": "20:30:00",
-			  "horarioFinal": "22:00:00"
+			  "diaDaSemana": 4,
+			  "horaInicio": "20:30:00",
+			  "horaFim": "22:00:00"
 			}
 		  ]
 		}
