@@ -66,5 +66,27 @@
 			}
 		  ]
 		}
+		
+		{
+		  "id": 4,
+		  "nome": "Matéria Sexta",
+		  "descricao": "Descrição matéria sexta",
+		  "nomeProfessor": "Professor matéria sexta",
+		  "administrador": false,
+		  "dataInicio": "01/07/2019",
+		  "dataFim": "31/12/2019",
+		  "horarios": [
+			{
+			  "diaDaSemana": 5,
+			  "horaInicio": "07:00:00",
+			  "horaFim": "12:00:00"
+			},
+			{
+			  "diaDaSemana": 5,
+			  "horaInicio": "12:30:00",
+			  "horaFim": "22:00:00"
+			}
+		  ]
+		}
 	]
 }
